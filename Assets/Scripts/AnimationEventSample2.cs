@@ -14,6 +14,6 @@ public class AnimationEventSample2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        animation.CrossFade("walk");
+        
     }
 }
